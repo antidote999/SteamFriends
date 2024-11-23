@@ -28,4 +28,4 @@
 | ![](https://avatars.steamstatic.com/b97bf6659cf61c0304a7420ef81610363155e306.jpg) | niko         | [76561198399639498](https://steamcommunity.com/profiles/76561198399639498/) | ✅           | 2023-10-23 05:12:28 |          |
 | ![](https://avatars.steamstatic.com/f457706506cf550f60cd4278953e1bfc09768bd0.jpg) | Anon Chihaya | [76561199528580603](https://steamcommunity.com/profiles/76561199528580603/) | ✅           | 2024-08-29 17:41:53 |          |
 | ![](https://avatars.steamstatic.com/333e4f1d035349552e55e2f197cf5aaea9bf72e6.jpg) | 小鸟游星野        | [76561199521399676](https://steamcommunity.com/profiles/76561199521399676/) | ✅           | 2023-09-08 15:07:17 |          |
-| ![](https://avatars.steamstatic.com/b39ce6060293ab23874f0beec7b41a0fa2705378.jpg) | オフィーリア       | [76561199439994921](https://steamcommunity.com/profiles/76561199439994921/) | ✅           | 2024-10-20 15:00:02 |          |
+| ![](https://avatars.steamstatic.com/3ffb15f6f0483201bca9243da40b470965ddc527.jpg) | オフィーリア       | [76561199439994921](https://steamcommunity.com/profiles/76561199439994921/) | ✅           | 2024-10-20 15:00:02 |          |
