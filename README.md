@@ -30,3 +30,4 @@
 | ![](https://avatars.steamstatic.com/333e4f1d035349552e55e2f197cf5aaea9bf72e6.jpg) | 小鸟游星野        | [76561199521399676](https://steamcommunity.com/profiles/76561199521399676/) | ✅           | 2023-09-08 15:07:17 |          |
 | ![](https://avatars.steamstatic.com/3ffb15f6f0483201bca9243da40b470965ddc527.jpg) | オフィーリア       | [76561199439994921](https://steamcommunity.com/profiles/76561199439994921/) | ✅           | 2024-10-20 15:00:02 |          |
 | ![](https://avatars.steamstatic.com/ee5cc428258a2f7f5775ae66f8bbcde744738e44.jpg) | 糯米拌糖         | [76561199572841568](https://steamcommunity.com/profiles/76561199572841568/) | ❌           | 2025-01-30 14:48:37 |          |
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 1974327728   | [76561199666875060](https://steamcommunity.com/profiles/76561199666875060/) | ✅           | 2025-03-10 09:54:09 |          |
