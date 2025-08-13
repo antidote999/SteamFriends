@@ -31,3 +31,4 @@
 | ![](https://avatars.steamstatic.com/245cd2ee4ce5255612a53b2bb0ad884d34936eb9.jpg) | オフィーリア       | [76561199439994921](https://steamcommunity.com/profiles/76561199439994921/) | ✅           | 2024-10-20 15:00:02 |          |
 | ![](https://avatars.steamstatic.com/ee5cc428258a2f7f5775ae66f8bbcde744738e44.jpg) | 糯米拌糖         | [76561199572841568](https://steamcommunity.com/profiles/76561199572841568/) | ❌           | 2025-01-30 14:48:37 |          |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 1974327728   | [76561199666875060](https://steamcommunity.com/profiles/76561199666875060/) | ✅           | 2025-03-10 09:54:09 |          |
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | raymoglavewy | [76561199841432170](https://steamcommunity.com/profiles/76561199841432170/) | ✅           | 2025-08-12 04:44:09 |          |
